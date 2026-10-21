@@ -1,4 +1,13 @@
 ## Hi there 👋
+<div align="center">
+  <img src="./assets-v2/banner.svg" width="100%" alt="Hero Banner" />
+</div>
+
+<div align="center">
+
+<a href="#about"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&height=32&lines=Frontend+Engineer+%E2%80%94+React+%2F+TypeScript;Seeking+a+Frontend+Engineer+Intern+role;Interested+in+Trading+%26+Financial+Interfaces;Clean+architecture.+Reusable+components." alt="Typing animation"></a>
+
+<br><br>
 <img src="https://img.shields.io/badge/ROLE-Frontend%20Engineer-6366f1?style=flat-square&labelColor=0b1229" alt="Role">
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Intern%20Roles-2dd4bf?style=flat-square&labelColor=0b1229" alt="Status">
 <img src="https://img.shields.io/badge/COMMITTEE-CodingGita%20Hackathon-6366f1?style=flat-square&labelColor=0b1229" alt="Committee">
