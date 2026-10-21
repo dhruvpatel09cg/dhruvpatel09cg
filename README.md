@@ -1,17 +1,20 @@
 ## Hi there 👋
-<img width="100%" align="center" hieght="200" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=130&section=header&animation=fadeIn"/>
+<img src="https://img.shields.io/badge/ROLE-Frontend%20Engineer-6366f1?style=flat-square&labelColor=0b1229" alt="Role">
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Intern%20Roles-2dd4bf?style=flat-square&labelColor=0b1229" alt="Status">
+<img src="https://img.shields.io/badge/COMMITTEE-CodingGita%20Hackathon-6366f1?style=flat-square&labelColor=0b1229" alt="Committee">
+<img src="https://komarev.com/ghpvc/?username=dhruvpatel09cg&style=flat-square&color=2dd4bf&labelColor=0b1229&label=VIEWS" alt="Views">
 
-<img width="1792" height="400" alt="banner" src="https://github.com/user-attachments/assets/74af4d45-80ca-42b3-8365-53da52c7e188" />
+</div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hari+om;Building+Ideas+into+Reality+%F0%9F%9A%80;Designing+%7C+Developing+%7C+Deploying;Always+Learning+Something+New+%F0%9F%94%A5" />
-</h1>
+<br>
 
-<h3 align="center">Aspiring AI/ML Engineer</h3>
+<div align="center">
+  <img src="./assets-v2/ticker.svg" width="100%" alt="Tech Stack Ticker" />
+</div>
 
-<p align="center">
-  Python • Machine Learning • Artificial Intelligence
-</p>
+<div align="center">
+  <img src="./assets-v2/divider.svg" width="100%" alt="" />
+</div>
 
 ---
 
