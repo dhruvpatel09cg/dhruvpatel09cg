@@ -27,12 +27,12 @@
 <h1 align="center">📊 GitHub Stats:</h1>
 
 <div align="center">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hari46-om&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hari46-om&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hari46-om&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hari46-om&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hari46-om&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari46-om&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvpatel09cg&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhruvpatel09cg&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruvpatel09cg&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhruvpatel09cg&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhruvpatel09cg&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvpatel09cg&theme=radical">
 </div>
 
 ---
@@ -85,8 +85,8 @@
 
 ## 📫 Connect With Me
 
-- GitHub     : https://github.com/Hari46-om
-- LinkedIn   : 
+- GitHub     : https://github.com/dhruvpatel09cg
+- LinkedIn   : https://www.linkedin.com/in/dhruv-patel-09cg
 - Portfolio  :
 
 
