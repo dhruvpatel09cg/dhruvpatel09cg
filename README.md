@@ -2,10 +2,10 @@
 
 ## About Me
 
-- 🌱 Currently learning Python, Git & GitHub, Web Development, and Figma
-- 🤖 Working toward Artificial Intelligence & Machine Learning
-- 💻 Building projects to strengthen my development skills
-- 📚 Continuously learning and improving
+-  Currently learning Python, Git & GitHub, Web Development, and Figma
+-  Working toward Artificial Intelligence & Machine Learning
+-  Building projects to strengthen my development skills
+-  Continuously learning and improving
 
 ---
 
